@@ -5,7 +5,7 @@ A full-stack web application designed to empower farmers with modern tools for s
 ## 🚀 Features
 
 ✅ **Fertilizer Marketplace** – Browse and purchase fertilizers and farming products online.  
-✅ **Farming Knowledge Hub** – Access modern farming techniques, expert articles, videos, and seasonal tips.  
+✅ **Farming Knowledge Hub** – Access modern farming techniques, expert articles, and Generate Report  
 ✅ **AI-Powered Plant Disease Detection** – Upload crop images to detect diseases instantly using machine learning.  
 ✅ **Crop Management System** – Plan, track, and manage planting schedules, growth stages, and yields.
 
