@@ -21,10 +21,10 @@ A full-stack web application designed to empower farmers with modern tools for s
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/green-farming-hub.git
+git clone https://github.com/oshiniM/Green-Farming-Hub.git
 
 # Navigate into the project
-cd green-farming-hub
+cd Green-Farming-Hub
 
 # Install server dependencies
 cd backend
